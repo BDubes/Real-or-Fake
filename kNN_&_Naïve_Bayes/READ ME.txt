@@ -1,4 +1,0 @@
-Please Make Changes to the Batch File, which is inside the src folder and then RUN it!
-The first line turns the java file to a class file.
-The second line runs the class file, but the 3 words after it are your parameters to enter!
-The third line stops the command prompt from closing
